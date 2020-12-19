@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/*----------------------------------Colours */
+
+
+
+
+/*----------------------------------Heading */
+
+
 header {
     margin: 0;
+
+}
+
+nav {
+    background-color: #808080;
+    margin: 0;
+}
+
+nav li{
+    padding-left: 80%;
+}
+
+.nav-link {
+    color: #ffffff;
 }
