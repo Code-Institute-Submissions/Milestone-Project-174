@@ -13,3 +13,8 @@
     font-family: Roboto;
     font-weight: bold;
 }
+
+.container .img-pos {
+    padding: 20px;
+    float: left;
+}
