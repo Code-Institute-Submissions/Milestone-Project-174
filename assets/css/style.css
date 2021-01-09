@@ -14,7 +14,50 @@
     font-weight: bold;
 }
 
-.container .img-pos {
-    padding: 20px;
-    float: left;
+.container {
+    background-color: #676767;
+    padding: 12px;
+    margin: 0px;
+    float: right;
+    height: 18em;
+}
+
+.img1 {
+    height: 6em;
+    width: 6em;
+    display: none;
+}
+
+.img2 {
+    margin: auto;
+    height: 8em;
+    width: 8em;
+    display: none;
+    float: right;
+}
+
+h4 {
+    color: white;
+    font-size: medium;
+    font-family: Exo 100;
+    padding-top: 30px;
+}
+
+p {
+    color: white;
+}
+
+button {
+    background-color: #676767;
+    color: white;
+}
+
+.p1 {
+    font-size: small;
+    font-family: Roboto;
+}
+
+.cost {
+    font-size: medium;
+    font-family: cursive;
 }
