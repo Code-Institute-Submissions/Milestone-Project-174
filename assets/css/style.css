@@ -13,6 +13,11 @@ section {
     min-height: 100vh;
 }
 
+h1 {
+    color: #fafafa;
+    margin: 2.5rem;
+}
+
 
 /*----------------------------------Navigation */
 
@@ -21,7 +26,7 @@ section {
 }
 
 .nav-link {
-    /* margin-right: 200px; */
+    /* margin-right: 150px; */
     text-transform: uppercase;
     font-family: Roboto;
     font-weight: bold;
@@ -37,8 +42,9 @@ section {
 
 .intro-text {
     color: #fafafa;
-    font-size: small;
+    font-size: larger;
     font-family: Roboto;
+    margin: 2.5rem;
 }
 
 button {
@@ -49,6 +55,10 @@ button {
 .cost {
     font-size: medium;
     font-family: Roboto;
+}
+
+.btn {
+    margin-left: 2.5rem;
 }
 
 img {
@@ -76,15 +86,13 @@ img {
 
 
 
-
-
 @media only screen and (min-width: 768px) {
     .img-wrapper {
         display: block;
     }
 
     .nav-link {
-        margin-right: 150px;
+        margin-right: 120px;
     }
 
     h4 {
@@ -93,5 +101,9 @@ img {
 
     .p1 {
         font-size: 1.5rem;
+    }
+
+    .navbar-collapse {
+        padding-right: 120px;
     }
 }
