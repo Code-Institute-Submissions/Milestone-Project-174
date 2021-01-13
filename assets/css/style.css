@@ -70,9 +70,24 @@ img {
 /*----------------------------------Membership Section */
 
 #memberships {
-    background-color: tomato;
+    background-color: #fafafa;
 }
 
+.btn-memb {
+    margin: 0;
+}
+
+.container .memb-cont {
+    padding-top: 60px;
+}
+
+.memb-price {
+    color: #676767;
+}
+
+.card-deck {
+    padding-top: 150px;
+}
 /*----------------------------------Contact Section */
 
 #contact {
@@ -92,7 +107,7 @@ img {
     }
 
     .nav-link {
-        margin-right: 120px;
+        margin-right: 80px;
     }
 
     h4 {
