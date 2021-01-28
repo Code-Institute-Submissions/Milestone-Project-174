@@ -10,7 +10,7 @@
 
 /*----------------------------------General */
 section {
-    min-height: 100vh;
+    min-height: 70vh;
     padding-top: 50px;
 }
 
@@ -97,6 +97,19 @@ img {
     background-color: teal;
 }
 
+.bg-color-contact {
+    background-color: #fafafa;
+}
+
+form {  
+    margin-top: 60px;  
+}
+
+.center-form {
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
 
 /*----------------------------------Footer */
 
