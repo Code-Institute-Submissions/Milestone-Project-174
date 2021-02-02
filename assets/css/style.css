@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+body {
+    background-color: #fafafa;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -69,11 +73,12 @@ img {
     padding: 10px;
 }
 
-/*----------------------------------Membership Section */
-
-#memberships {
-    background-color: #fafafa;
+.btn {
+    color: #fafafa;
+    background-color: #1616B8;
 }
+
+/*----------------------------------Membership Section */
 
 .btn-memb {
     margin: 0;
@@ -91,15 +96,20 @@ img {
     padding-top: 150px;
 }
 
-/*----------------------------------Contact Section */
+.card {
+    border: 2px solid #676767;
+}
 
-#contact {
+.card-header {
     background-color: #676767;
+    color: #fafafa;
 }
 
-.bg-color-contact {
-    background-color: #fafafa;
+h3 {
+    font-size: x-large;
 }
+
+/*----------------------------------Contact Section */
 
 form {  
     margin-top: 50px;  
@@ -109,6 +119,14 @@ form {
     max-width: 50%;
     margin: 0 auto;
     padding-top: 10px;
+}
+
+.form-control {
+    border: 1px solid #676767;
+}
+
+.contact-heading {
+    font-size: xx-large;
 }
 
 /*----------------------------------Footer */
@@ -154,4 +172,9 @@ footer {
     .navbar-collapse {
         padding-right: 120px;
     }
+
+    section {
+    min-height: 50vh;
+    padding-top: 50px;
+}
 }
