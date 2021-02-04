@@ -111,18 +111,11 @@ img {
     color: #fafafa;
 }
 
-h1 {
-    font-size: x-large;
-}
 
 /*----------------------------------Contact Section */
 
-form {  
-    margin-top: 50px;  
-}
-
 .center-form {
-    max-width: 50%;
+    max-width: 80%;
     margin: 0 auto;
     padding-top: 10px;
 }
@@ -135,6 +128,7 @@ form {
 
 footer {
     background-color: #676767;
+    margin-top: 20px;
 }
 
 .contact-footer {
@@ -159,10 +153,6 @@ footer {
 
 i:hover {
     opacity: 0.7; 
-}
-
-h3 {
-    font-size: x-large;
 }
  
 .social-m {
@@ -197,5 +187,15 @@ h3 {
     section {
     min-height: 75vh;
     padding-top: 50px;
+}
+
+.center-form {
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+footer {
+    margin: 0;
 }
 }
