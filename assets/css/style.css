@@ -19,7 +19,7 @@ section {
 
 hr {
     border-width: 3px;
-    background-color: #676767;
+    background-color: #002a4e;
 }
 
 h1 {
@@ -45,7 +45,7 @@ h1 {
 /*----------------------------------Intro Section */
 
 #intro {
-    background-color: #676767;
+    background-color: #002a4e;
 }
 
 
@@ -62,7 +62,7 @@ h1 {
 }
 
 button {
-    background-color: #676767;
+    background-color: #002a4e;
     color: white;
 }
 
@@ -79,8 +79,8 @@ img {
 }
 
 .btn {
-    color: #fafafa;
-    background-color: #1616B8;
+    color: #002a4e;
+    background-color: #fafafa;
 }
 
 .intro-heading {
@@ -99,16 +99,16 @@ img {
 } */
 
 .memb-price {
-    color: #676767;
+    color: #002a4e;
 }
 
 
 .card {
-    border: 2px solid #676767;
+    border: 2px solid #002a4e;
 }
 
 .card-header {
-    background-color: #676767;
+    background-color: #002a4e;
     color: #fafafa;
 }
 
@@ -122,13 +122,13 @@ img {
 }
 
 .form-control {
-    border: 1px solid #676767;
+    border: 1px solid #002a4e;
 }
 
 /*----------------------------------Footer */
 
 footer {
-    background-color: #676767;
+    background-color: #002a4e;
     margin-top: 20px;
 }
 
