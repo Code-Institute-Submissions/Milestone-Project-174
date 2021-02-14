@@ -11,11 +11,11 @@ Image produced from [Am I Responsive](http://ami.responsivedesign.is)
 
 ## [MyFitness](https://codemonkey55.github.io/Milestone-Project-1/) 
 
-The website is created to showcase a newly opened gym in the LA area and to get both new and experienced gym-people to get a insight into what its like. 
+The website is created to showcase a recently opened gym in the LA area and to get both new and experienced gym-people to get a insight into what its like. 
 
 The site features an intro section, a section with all the memberships available, an contact form where you can get in touch with personel about any questions as well as a footer with further information.
 
-The primary goal with the website is to get the users attention towards memberships and for them to purchase one. While the aspect of getting people to join the gym, a big part is also about sponsors and business partners, therefor the contact page is where you as a sponsor or regular user can submit questions which is easily accessable.
+The primary goal with the website is to get the users attention towards memberships and for them to purchase one. While the aspect of getting people to join the gym, a big part is also about sponsors and business partners, therefore the contact page is where you as a sponsor or regular user can submit questions which is easily accessable.
 
 **The business goals of this website are:**
 
@@ -35,8 +35,9 @@ The primary goal with the website is to get the users attention towards membersh
 
 ### Strategy
 
-My strategy for the site was to provide reputable content and ease of access to users trying to attain information by utilising key UX principals.
-I wanted to incorporate the majority of elements from [Peter Morville's UX Honeycomb](https://books.google.ie/books?id=yLd9DwAAQBAJ&lpg=PA6&dq=ux%20honeycomb%20peter%20morville&pg=PR1#v=onepage&q=ux%20honeycomb%20peter%20morville&f=false) to create a great experience for the user. In particular, I believed that the aspects of "Credible", "Valuable" and "Usable" were highly significant to implement in this project. I felt that the owner images and client list would add to the credibility of the company and the overall site.   
+My strategy for the site was to let the user see the most important things right away when they enter the site. Uppon entering the site they can see a tiny bit of the membership section right away which catches interest. The nav-bar would help furthermore to provide information and the user would get a easy feeling without complications when looking for things throughout the site.
+The site was supposed to combine things from other fitness websites with the UX to create a site where the user can feel safe and to enjoy the overall design and look.
+A big part of my thinking was to not clutter the website and make all the information and options on the site visible and simple.
 
 #### Ideal users of this website:
 - Newbie's
@@ -78,7 +79,7 @@ This type of structure would let the user easily navigate through the page with 
 The links are placed in a specific order to make the user follow the different steps. Starting with the Home/Introduction where you get a couple of pictures of the gym and some simple info to catch the users interest. By either continuing down the site or clicking the "Join Now" button, the next part of the site will become visible and let the user look through memberships. From here on depending on what the users needs are, there is a contact form for further questions or a footer at the bottom for more information on how to contact the company.
  
 ### Skeleton
-- [Wireframes](assets/wireframes/wireframes.pdf "Myfitness Wireframes"): Website contains 4 sections; Home (Introduction), Memberships (Our Memberships) and a Contact form (Contact Us) section. At the beginning i wanted to have a 4 page layout but decided that this would only make things more complicated, and stuck to a more simple design.
+- [Wireframes](assets/wireframes/wireframes.pdf "Myfitness Wireframes"): Website contains 3 sections; Home (Introduction), Memberships (Our Memberships) and a Contact form (Contact Us) section. At the beginning i wanted to have a 4 page layout but decided that this would only make things more complicated, and stuck to a more simple design.
 **Please note the finalised website contains some variations to the original wireframe**
 
 ### Surface 
@@ -158,7 +159,7 @@ In the construction of this project I have utilised the following languages, fra
 
 At the first part of the site, there is four pictures displayed on the right to let the users get a simple first look at how the gym looks now. In addition to this, there is some simple but good information on the left hand side of the screen to create some comfort for the user.
 
-**As a Newbie/Fitness Enthusiasts/Sponsor/Business Partner,: I want to make sure that the gym has a good reputation before starting anything with them**
+**As a Newbie/Fitness Enthusiasts/Sponsor/Business Partner,: I want to make sure that the gym has a good reputation before becoming a part of it**
 
 The easiest way for any user to know about the gym's reputation and progression is to use the links placed in the footer at the bottom of the site, this is where they can find out what other members of the gym thinks of it and how it is to work with.
 
