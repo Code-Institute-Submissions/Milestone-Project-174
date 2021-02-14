@@ -103,7 +103,7 @@ img {
 /*----------------------------------Membership Section */
 
 #memberships {
-    padding-top: 70px;
+    padding-top: 90px;
 }
 
 .btn-memb {
@@ -127,7 +127,7 @@ img {
 /*----------------------------------Contact Section */
 
 #contact {
-    padding-top: 70px;
+    padding-top: 90px;
 }
 
 .center-form {
@@ -205,7 +205,6 @@ i:hover {
 
     section {
         min-height: 75vh;
-        /* padding-top: 50px; */
     }
 
     .center-form {
